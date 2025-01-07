@@ -1,0 +1,141 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/AlteraPrj/work/AAC2M2P2
+Eaac2m2p3_tb
+Z0 w1735938408
+Z1 DPx4 ieee 16 std_logic_textio 0 22 ^l:n6VFdg74Q?CKDhjD]D3
+Z2 DPx4 ieee 20 numeric_bit_unsigned 0 22 fQPIgHhiDaHPI@GGmF4c92
+Z3 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 1
+Z6 dC:/AlteraPrj/work/AAC2M2P3
+Z7 8C:/AlteraPrj/work/AAC2M2P3/AAC2M2P3_tb.vhdp
+Z8 FC:/AlteraPrj/work/AAC2M2P3/AAC2M2P3_tb.vhdp
+l0
+L54 1
+Vz9=iK6?gP?3El7[^20fWD0
+!s100 ObY2L342C<a9<njjh?5_>1
+Z9 OV;C;2020.1;71
+32
+Z10 !s110 1735939240
+!i10b 1
+Z11 !s108 1735939240.000000
+Z12 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/AlteraPrj/work/AAC2M2P3/AAC2M2P3_tb.vhdp|
+Z13 !s107 C:/AlteraPrj/work/AAC2M2P3/AAC2M2P3_tb.vhdp|
+!i113 1
+Z14 o-work work -2002 -explicit
+Z15 tExplicit 1 CvgOpt 0
+Abehavioral
+R1
+R2
+R3
+R4
+R5
+DEx4 work 11 aac2m2p3_tb 0 22 z9=iK6?gP?3El7[^20fWD0
+!i122 1
+l135
+L61 221
+VPbCcMUVJCaoAO;WF2lZlS1
+!s100 Tm>h2N]VKZ^C]z0B612CU0
+R9
+!i119 1
+32
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Efsm
+Z16 w1735942199
+R4
+R5
+!i122 24
+R6
+Z17 8C:/AlteraPrj/work/AAC2M2P3/AAC2M2P3.vhd
+Z18 FC:/AlteraPrj/work/AAC2M2P3/AAC2M2P3.vhd
+l0
+L5 1
+V:40C4@U4@G;?U0OnRLbG20
+!s100 jikN@>cKO]R<5X[bDcmZP2
+R9
+32
+Z19 !s110 1735942204
+!i10b 1
+Z20 !s108 1735942204.000000
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/AlteraPrj/work/AAC2M2P3/AAC2M2P3.vhd|
+Z22 !s107 C:/AlteraPrj/work/AAC2M2P3/AAC2M2P3.vhd|
+!i113 1
+R14
+R15
+Afsm_architecture
+R4
+R5
+Z23 DEx4 work 3 fsm 0 22 :40C4@U4@G;?U0OnRLbG20
+!i122 24
+l23
+Z24 L15 63
+V3:=3b6Nfh<9bGiMXO0b;a2
+!s100 kFWgP48lgKQ[PCXklR[M^2
+R9
+32
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 1
+R14
+R15
+Esimple_fsm
+Z25 w1735941763
+R4
+R5
+!i122 20
+R6
+R17
+R18
+l0
+L5 1
+VYNGXGMY>NIFl`m7W;I:<K1
+!s100 J@Hhj2]hT[nQ]PMQcKhG?2
+R9
+32
+Z26 !s110 1735941767
+!i10b 1
+Z27 !s108 1735941767.000000
+R21
+R22
+!i113 1
+R14
+R15
+Afsm_architecture
+R4
+R5
+DEx4 work 10 simple_fsm 0 22 YNGXGMY>NIFl`m7W;I:<K1
+!i122 20
+l23
+R24
+VmQ[gGKj9?olZ4BkF8EbGO0
+!s100 ZY3Af_Q4AHP;OM[HZ3P3D3
+R9
+32
+R26
+!i10b 1
+R27
+R21
+R22
+!i113 1
+R14
+R15

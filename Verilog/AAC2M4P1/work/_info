@@ -1,0 +1,60 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/20.1
+vAAC2M4P1_tb
+!s110 1736111326
+!i10b 1
+!s100 X08nB14g:^5WcDGMI6fF72
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IORPhHW:^l32]om:URikd03
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+!i119 1
+Z2 dC:/AlteraPrj/work/AAC2M4P1
+w1736109325
+8C:/AlteraPrj/work/AAC2M4P1/AAC2M4P1/AAC2M4P1_tb.vp
+FC:/AlteraPrj/work/AAC2M4P1/AAC2M4P1/AAC2M4P1_tb.vp
+!i122 0
+L0 65 59
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1736111326.000000
+!s107 C:/AlteraPrj/work/AAC2M4P1/AAC2M4P1/AAC2M4P1_tb.vp|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/AlteraPrj/work/AAC2M4P1/AAC2M4P1/AAC2M4P1_tb.vp|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@a@a@c2@m4@p1_tb
+vLS161a
+!s110 1736112864
+!i10b 1
+!s100 7;f11:K?hAC:4Dk=<<NYG2
+R0
+IA36Lfz9WJ3;SeJIm:?0in1
+R1
+R2
+w1736112846
+8C:/AlteraPrj/work/AAC2M4P1/AAC2M4P1/AAC2M4P1.v
+FC:/AlteraPrj/work/AAC2M4P1/AAC2M4P1/AAC2M4P1.v
+!i122 5
+L0 1 28
+R3
+r1
+!s85 0
+31
+!s108 1736112864.000000
+!s107 C:/AlteraPrj/work/AAC2M4P1/AAC2M4P1/AAC2M4P1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/AlteraPrj/work/AAC2M4P1/AAC2M4P1/AAC2M4P1.v|
+!i113 1
+R4
+R5
+n@l@s161a

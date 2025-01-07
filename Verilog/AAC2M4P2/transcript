@@ -1,0 +1,175 @@
+# Compile of AAC2M4P3.v failed with 3 errors.
+# Compile of AAC2M4P3_tb.vp was successful.
+# 2 compiles, 1 failed with 3 errors.
+# Compile of AAC2M4P3.v failed with 3 errors.
+# Compile of AAC2M4P3.v was successful.
+vsim -gui work.AAC2M4P3_tb
+# vsim -gui work.AAC2M4P3_tb 
+# Start time: 13:22:57 on Jan 06,2025
+# Loading work.AAC2M4P3_tb
+# Loading work.FSM
+run
+# Error at time        90
+# Error at time       110
+# This simulation is complete
+# ** Note: $stop    : C:/AlteraPrj/work/AAC2M4P3/AAC2M4P3_tb.vp(118)
+#    Time: 141 ns  Iteration: 0  Instance: /AAC2M4P3_tb
+# Break in Module AAC2M4P3_tb in file C:/AlteraPrj/work/AAC2M4P3/AAC2M4P3_tb.vp
+run
+# WARNING: No extended dataflow license exists
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+run
+run
+run
+run
+run
+run
+run
+run
+# Error at time        90
+# WARNING: No extended dataflow license exists
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+run
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+quit -sim
+# End time: 13:26:23 on Jan 06,2025, Elapsed time: 0:03:26
+# Errors: 0, Warnings: 1
+# Compile of AAC2M4P3.v was successful.
+vsim -gui work.AAC2M4P3_tb
+# vsim -gui work.AAC2M4P3_tb 
+# Start time: 13:26:35 on Jan 06,2025
+# Loading work.AAC2M4P3_tb
+# Loading work.FSM
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Error at time        90
+run
+quit -sim
+# End time: 13:33:10 on Jan 06,2025, Elapsed time: 0:06:35
+# Errors: 0, Warnings: 2
+# Compile of AAC2M4P3.v failed with 3 errors.
+# Compile of AAC2M4P3.v failed with 2 errors.
+# Compile of AAC2M4P3.v failed with 2 errors.
+# Compile of AAC2M4P3.v was successful.
+vsim -gui work.AAC2M4P3_tb
+# vsim -gui work.AAC2M4P3_tb 
+# Start time: 13:34:20 on Jan 06,2025
+# Loading work.AAC2M4P3_tb
+# Loading work.FSM
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Error at time        90
+run
+run
+# Error at time       110
+run
+quit -sim
+# End time: 13:46:52 on Jan 06,2025, Elapsed time: 0:12:32
+# Errors: 0, Warnings: 5
+# Compile of AAC2M4P3.v was successful.
+vsim -gui work.AAC2M4P3_tb
+# vsim -gui work.AAC2M4P3_tb 
+# Start time: 13:47:04 on Jan 06,2025
+# Loading work.AAC2M4P3_tb
+# Loading work.FSM
+run
+# Error at time        90
+# Error at time       110
+# This simulation is complete
+# ** Note: $stop    : C:/AlteraPrj/work/AAC2M4P3/AAC2M4P3_tb.vp(118)
+#    Time: 141 ns  Iteration: 0  Instance: /AAC2M4P3_tb
+# Break in Module AAC2M4P3_tb in file C:/AlteraPrj/work/AAC2M4P3/AAC2M4P3_tb.vp
+quit -sim
+# End time: 13:54:31 on Jan 06,2025, Elapsed time: 0:07:27
+# Errors: 0, Warnings: 2
+# reading C:/intelFPGA_lite/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project AAC2M4H1
+# Compile of AAC2M4H1.v failed with 2 errors.
+# Compile of AAC2M4H1_tb.vp was successful.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of AAC2M4H1.v was successful.
+vsim -gui work.AAC2M4H1_tb
+# vsim -gui work.AAC2M4H1_tb 
+# Start time: 13:56:36 on Jan 06,2025
+# Loading work.AAC2M4H1_tb
+# Loading work.ALU
+run
+# This simulation is complete
+# ** Note: $stop    : C:/AlteraPrj/work/AAC2M4H1/AAC2M4H1_tb.vp(118)
+#    Time: 1291 ns  Iteration: 0  Instance: /AAC2M4H1_tb
+# Break in Module AAC2M4H1_tb in file C:/AlteraPrj/work/AAC2M4H1/AAC2M4H1_tb.vp
+quit -sim
+# End time: 14:09:14 on Jan 06,2025, Elapsed time: 0:12:38
+# Errors: 0, Warnings: 6
+# reading C:/intelFPGA_lite/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project AAC2M4H2
+# Compile of AAC2M4H2.v failed with 1 errors.
+# Compile of AAC2M4H2_tb.vp was successful.
+# 2 compiles, 1 failed with 1 error.
+# Compile of AAC2M4H2.v failed with 1 errors.
+# Compile of AAC2M4H2.v failed with 1 errors.
+# Compile of AAC2M4H2.v failed with 1 errors.
+# Compile of AAC2M4H2.v failed with 1 errors.
+# Compile of AAC2M4H2.v failed with 1 errors.
+# Compile of AAC2M4H2.v was successful.
+vsim -gui work.AAC2M4H2_tb
+# vsim -gui work.AAC2M4H2_tb 
+# Start time: 14:15:55 on Jan 06,2025
+# Loading work.AAC2M4H2_tb
+# Loading work.FIFO8x9
+run
+# This simulation is complete
+# ** Note: $stop    : C:/AlteraPrj/work/AAC2M4H2/AAC2M4H2_tb.vp(129)
+#    Time: 20572 ns  Iteration: 0  Instance: /AAC2M4H2_tb
+# Break in Module AAC2M4H2_tb in file C:/AlteraPrj/work/AAC2M4H2/AAC2M4H2_tb.vp
+quit -sim
+# End time: 14:17:15 on Jan 06,2025, Elapsed time: 0:01:20
+# Errors: 0, Warnings: 11
+# Compile of AAC2M4H2.v failed with 2 errors.
+# Compile of AAC2M4H2.v failed with 1 errors.
+# Compile of AAC2M4H2.v failed with 1 errors.
+# Compile of AAC2M4H2.v failed with 1 errors.
+# Compile of AAC2M4H2.v failed with 1 errors.
+# Compile of AAC2M4H2.v failed with 1 errors.
+# Compile of AAC2M4H2.v failed with 1 errors.
+# Compile of AAC2M4H2.v was successful.
+# Compile of AAC2M4H2.v failed with 1 errors.
+# Compile of AAC2M4H2.v was successful.
+vsim -gui work.AAC2M4H2_tb
+# vsim -gui work.AAC2M4H2_tb 
+# Start time: 14:53:36 on Jan 06,2025
+# Loading work.AAC2M4H2_tb
+# Loading work.FIFO8x9
+# ** Warning: (vsim-3015) [PCDPC] - Port size (8) does not match connection size (9) for port 'DataIn'. The port definition is at: C:/AlteraPrj/work/AAC2M4H2/AAC2M4H2.v(5).
+#    Time: 0 ps  Iteration: 0  Instance: /AAC2M4H2_tb/DUT File: C:/AlteraPrj/work/AAC2M4H2/AAC2M4H2_tb.vp Line: 105
+# ** Warning: (vsim-3015) [PCDPC] - Port size (8) does not match connection size (9) for port 'DataOut'. The port definition is at: C:/AlteraPrj/work/AAC2M4H2/AAC2M4H2.v(6).
+#    Time: 0 ps  Iteration: 0  Instance: /AAC2M4H2_tb/DUT File: C:/AlteraPrj/work/AAC2M4H2/AAC2M4H2_tb.vp Line: 105
+run
+# This simulation is complete
+# ** Note: $stop    : C:/AlteraPrj/work/AAC2M4H2/AAC2M4H2_tb.vp(129)
+#    Time: 20572 ns  Iteration: 0  Instance: /AAC2M4H2_tb
+# Break in Module AAC2M4H2_tb in file C:/AlteraPrj/work/AAC2M4H2/AAC2M4H2_tb.vp
+# End time: 14:53:54 on Jan 06,2025, Elapsed time: 0:00:18
+# Errors: 0, Warnings: 13

@@ -1,0 +1,102 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/20.1
+Eaac2m2p1
+Z0 w1735930833
+Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 2
+Z4 dC:/AlteraPrj/work/AAC2M2P1
+Z5 8C:/AlteraPrj/work/AAC2M2P1/AAC2M2P1.vhd
+Z6 FC:/AlteraPrj/work/AAC2M2P1/AAC2M2P1.vhd
+l0
+L5 1
+V@ikWR7gF^`Rn:Sk6_1[Vj0
+!s100 7::SV6A8[gFjPbJ4a4m_K1
+Z7 OV;C;2020.1;71
+32
+Z8 !s110 1735930867
+!i10b 1
+Z9 !s108 1735930867.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/AlteraPrj/work/AAC2M2P1/AAC2M2P1.vhd|
+!s107 C:/AlteraPrj/work/AAC2M2P1/AAC2M2P1.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Aaac2m2p1_a
+R1
+R2
+R3
+DEx4 work 8 aac2m2p1 0 22 @ikWR7gF^`Rn:Sk6_1[Vj0
+!i122 2
+l20
+L18 24
+VgI^meNfOY<SbKf3mk^>6<3
+!s100 i6^H8UQ7mRa`oBhV>Qj2o2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+Z13 !s107 C:/AlteraPrj/work/AAC2M2P1/AAC2M2P1.vhd|
+!i113 1
+R11
+R12
+Eaac2m2p1_tb
+Z14 w1735768187
+Z15 DPx4 ieee 16 std_logic_textio 0 22 ^l:n6VFdg74Q?CKDhjD]D3
+Z16 DPx4 ieee 20 numeric_bit_unsigned 0 22 fQPIgHhiDaHPI@GGmF4c92
+R1
+R2
+R3
+!i122 1
+R4
+Z17 8C:/AlteraPrj/work/AAC2M2P1/AAC2M2P1_tb.vhdp
+Z18 FC:/AlteraPrj/work/AAC2M2P1/AAC2M2P1_tb.vhdp
+l0
+L53 1
+V]9k1d5L;N2mhb116]mo@:3
+!s100 gS`_:X:U1F[NhndMH]ZN@3
+R7
+32
+Z19 !s110 1735930751
+!i10b 1
+Z20 !s108 1735930751.000000
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/AlteraPrj/work/AAC2M2P1/AAC2M2P1_tb.vhdp|
+Z22 !s107 C:/AlteraPrj/work/AAC2M2P1/AAC2M2P1_tb.vhdp|
+!i113 1
+R11
+R12
+Abehavioral
+R15
+R16
+R1
+R2
+R3
+DEx4 work 11 aac2m2p1_tb 0 22 ]9k1d5L;N2mhb116]mo@:3
+!i122 1
+l146
+L61 259
+V[FQ6Cl4A7S1lc8=OLgBJD2
+!s100 lcAZD7lWOiNhnNY0KUO5g3
+R7
+!i119 1
+32
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 1
+R11
+R12
